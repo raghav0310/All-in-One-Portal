@@ -1,0 +1,48 @@
+.hero{
+	position: absolute;
+	width:1200px;
+	margin-left:0px;
+	margin-top: 0px;
+}
+
+
+h1{
+
+	text-transform: uppercase;
+	font-size: 70px;
+	text-align:center;
+	margin-top: 260px;
+	font-family: "algerian"; 
+
+}
+body{
+	margin:0;
+	padding: 0;
+	background:url(jee.jpg);
+	
+	background-position:center;
+	font-family:sans-serif;
+}
+.button{
+	margin-top: 30px;
+	margin-left: 440vh;
+}
+
+.btn{
+	background-color: white;
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: black;
+	text-decoration: blink;
+	margin-right: 5px;
+	font-size: 13px;
+	text-transform: uppercase; 
+}
+
+.btn-one{
+	font-family:"Roboto";
+}
+
+.btn-two{
+	background-color:"orange";
+}
